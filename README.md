@@ -302,7 +302,7 @@ Zenmap topology PDF
 
 👤 Author
 Kwanele Dube Cybersecurity Intern — Batch B083 Networkwalks Cybersecurity Internship
-LinkedIn: https://www.linkedin.com/in/kwanele-dube
+LinkedIn: https://www.linkedin.com/posts/kwanele-dube-b35659377_networkwalks-cybersecurity-ethicalhacking-share-7506314826168786944-nvhD/
 📌 Project Information
 Program: Networkwalks Cybersecurity Internship | Week: 02 | Repository: GitHub
 -End-
